@@ -21,7 +21,7 @@ If you are running secure mode:
 export MAPR_TICKETFILE_LOCATION=/path.to/mapr-ticket
 ```
 
-Modify ```table_name``` in main()``` before running:
+Modify ```table_name``` in ```main()``` before running:
 ```
 python3 example/table_scan.py
 ```
